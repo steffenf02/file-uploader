@@ -1,0 +1,16 @@
+{
+  "discordToken": "token",
+  "discordGuildID": "604762523970830387",
+  "discordChannelID": "604764162035548170",
+  "map": {
+    "2019-07-28_20-07-47.jpg": "604764162035548170/605099120402628620",
+    "Test.png": "604764162035548170/604800928767541259"
+  },
+  "importDirectory": "",
+  "port": 80,
+  "debug": true,
+  "domain": [
+    "localhost",
+    "127.0.1"
+  ]
+}
